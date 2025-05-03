@@ -1,0 +1,5 @@
+print("hello")
+print(2) 
+print('hello everybody \n')
+print("hello243",233)
+print("welcome to",end="*")
